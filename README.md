@@ -1,3 +1,3 @@
 # GetRandomPassWord 
 
-Use it For Free Get Random Password
+## Use it For Free Get Random Password
